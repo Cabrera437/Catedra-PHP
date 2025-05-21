@@ -6,7 +6,7 @@
   alt="header"/>
 </div>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
+     <h2>DSS404 G03T</h2>
 
 
 <h2> Equipo de Desarrollo<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
@@ -28,6 +28,19 @@
     <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
     <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
     <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
+ </tr>
+</table>
+</div>
+<h2>:open_file_folder: Archivos importantes </h2>
+
+>[Enlace de lo Diseño de los Muckup's 🎨]()
+
+> [Enlace a Notion o trello📗📝]() 
+
+> [proyecto PDF 📖]()
+
+<br>
+
 
 
 
