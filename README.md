@@ -41,7 +41,11 @@
 
 <br>
 
-
+## 🐍 Gracias Por Ver Nuestro Repositorio
+	
+<p align = "center">
+<img align='' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
+</p>
 
 
 
