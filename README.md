@@ -6,8 +6,27 @@
   alt="header"/>
 </div>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-     <h2>DSS404 G03T</h2>
 
+<pre>
+🌱 grupo: DSS404 G03T
+🌱 Nuestra Apliación se llama: recuerda
+🌱 para este proyecto hemos desarrollado con MVC puro 
+</pre>
+<hr>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Heramientas y Tecnologias Utilizadas</b>
+
+![php](https://img.shields.io/badge/php-purple?style=flat&logo=php&logoColor=white)
+![html](https://img.shields.io/badge/html-orange?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=CSS&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-orange?style=flat&logo=xampp&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat&logoColor=white)
+![ GitHub](https://img.shields.io/badge/GitHub-gray?style=flat&logo=github)
+![phpadmin](https://img.shields.io/badge/phpadmin-gray?style=flat&logo=phpadmin)
+![estructura](https://img.shields.io/badge/estructura-MVC-green?style=flat&logo=phpadmin)
+![JS](https://img.shields.io/badge/JS-gray?style=flat&logo=javascript)
+<br>
 
 <h2> Equipo de Desarrollo<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <div>
