@@ -17,8 +17,9 @@
 
 <pre>
 🌱 grupo: DSS404 G03T
-🌱 Nuestra Apliación se llama: recuerda
+🌱 Nuestra Apliación web se llama: recuerda
 🌱 para este proyecto hemos desarrollado con MVC puro 
+🌱 ¿Qué es nuestra apliación web recuerda: en pocas palabras una aplicación para tomar notas ya sean avanzadas, notas normales y recodarios
 </pre>
 <hr>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
