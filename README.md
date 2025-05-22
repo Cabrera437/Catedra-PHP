@@ -63,11 +63,19 @@
 </div>
 <h2>:open_file_folder: Archivos importantes </h2>
 
+
+> [Importante Leer 📝](https://drive.google.com/file/d/1SNshcvGPL6ej6orZOm-qwaenXyvxo7bX/view?usp=sharing)
+
+> [proyecto PDF 📖]()
+
+
 >[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/oCbgpYrGGHI3ZliZpSI0N4/Untitled?node-id=0-1&p=f)
+
 
 > [trello📗📝](https://trello.com/b/CyB9Y510/recuerda-proyecto) 
 
-> [proyecto PDF 📖]()
+
+
 
 <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
