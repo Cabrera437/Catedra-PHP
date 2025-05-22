@@ -63,9 +63,9 @@
 </div>
 <h2>:open_file_folder: Archivos importantes </h2>
 
->[Enlace de lo Diseño de los Muckup's 🎨]()
+>[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/oCbgpYrGGHI3ZliZpSI0N4/Untitled?node-id=0-1&p=f)
 
-> [Enlace a Notion o trello📗📝]() 
+> [trello📗📝](https://trello.com/b/CyB9Y510/recuerda-proyecto) 
 
 > [proyecto PDF 📖]()
 
