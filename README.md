@@ -20,7 +20,7 @@
 <pre>
 🌱 grupo: DSS404 G03T
 🌱 Nuestra Apliación web se llama: recuerda
-🌱 para este proyecto hemos desarrollado con MVC puro 
+🌱 para este proyecto hemos desarrollado con MVC laravel
 🌱 ¿Qué es nuestra aplicación web recuerda: en pocas palabras una aplicación para tomar notas ya sean avanzadas, notas normales y recodarios
 </pre>
 <hr>
