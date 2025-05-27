@@ -64,7 +64,7 @@
 <h2>:open_file_folder: Archivos importantes </h2>
 
 
-> [Importante📝](https://github.com/Cabrera437/Catedra-PHP/blob/master/comprobantes/documento%20importante.jpg)
+> [Importante📝](https://github.com/Cabrera437/Catedra-PHP/tree/master/comprobantes)
 
 > [proyecto PDF 📖]()
 
