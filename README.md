@@ -20,7 +20,7 @@
 <pre>
 🌱 grupo: DSS404 G03T
 🌱 Nuestra Apliación web se llama: recuerda
-🌱 para este proyecto hemos desarrollado con MVC laravel
+🌱 para este proyecto lo hemos desarrollado con MVC laravel
 🌱 ¿Qué es nuestra aplicación web recuerda: en pocas palabras una aplicación para tomar notas ya sean avanzadas, notas normales y recodarios
 </pre>
 <hr>
@@ -37,6 +37,9 @@
 ![phpadmin](https://img.shields.io/badge/phpadmin-gray?style=flat&logo=phpadmin)
 ![estructura](https://img.shields.io/badge/estructura-MVC-green?style=flat&logo=phpadmin)
 ![JS](https://img.shields.io/badge/JS-gray?style=flat&logo=javascript)
+![Laravel](https://img.shields.io/badge/Laravel-white?style=flat&logo=Laravel)
+![node js](https://img.shields.io/badge/node%20js-gray?style=flat)
+
 <br>
 
 <h2> Equipo de Desarrollo<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
