@@ -64,7 +64,7 @@
 <h2>:open_file_folder: Archivos importantes </h2>
 
 
-> [Importante Leer 📝](https://drive.google.com/file/d/1SNshcvGPL6ej6orZOm-qwaenXyvxo7bX/view?usp=sharing)
+> [Importante📝](https://github.com/Cabrera437/Catedra-PHP/blob/master/comprobantes/documento%20importante.jpg)
 
 > [proyecto PDF 📖]()
 
