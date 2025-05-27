@@ -68,6 +68,9 @@
 
 > [proyecto PDF 📖]()
 
+> [video demostrativo de manejaras de ejecucion y funcionalidad ⏯](https://drive.google.com/file/d/1ilCNFC560OxCRTuIej50rHmJaX5YqMlE/view?usp=sharing)
+
+
 
 >[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/oCbgpYrGGHI3ZliZpSI0N4/Untitled?node-id=0-1&p=f)
 
