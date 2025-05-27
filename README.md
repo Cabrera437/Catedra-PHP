@@ -31,7 +31,6 @@
 ![Laravel](https://img.shields.io/badge/Laravel-white?style=flat&logo=Laravel)
 ![php](https://img.shields.io/badge/php-purple?style=flat&logo=php&logoColor=white)
 ![html](https://img.shields.io/badge/html-orange?style=flat&logo=HTML5&logoColor=white)
-![node js](https://img.shields.io/badge/node%20js-gray?style=flat)
 ![JS](https://img.shields.io/badge/JS-gray?style=flat&logo=javascript)
 ![Tailwind](https://img.shields.io/badge/Tailwind-gray?style=flat&logo=TailwindCSS )
 ![Node.js](https://img.shields.io/badge/Node.js-white?style=flat&logo=Node.js)
