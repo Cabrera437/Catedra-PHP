@@ -26,6 +26,98 @@
 <hr>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
+> [!WARNING]
+>  ANTES DE DESCARGAR EL PROYECTO SE DEBE TOMAR EN CUENTA LO SIGUIENTE
+> <br>
+> **  Tener Laravel Instalado ** <br>
+> ** Tener Composer Instaldo  ** <br>
+> ** Tener Nodejs Instalado **   <br>
+> ** tener Instalado Xampp o wamp server **
+> ES MUY IMPORTANTE TENER ESTO PARA QUE PODAMOS EJECUTAR LA APLICACIÓN WEB
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+> [!TIP]
+>  PARA INSTALAR LARAVEL EJECUTA EL SIGUIENTE COMANDO EN TU CMD O VSCODE Y TENDRAS LARAVEL INSTALADO🔧
+```
+composer global require laravel/installer
+```
+```
+laravel --version
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+> [!IMPORTANT]
+> INSTALADO TODO ANTERIOR MENCINADO EN EL APARATADO ARCHIVOS IMPORTANTES ESTARA UN ENLACE DE RECURSOS <BR>
+<br>
+Ese enlace nos llevara a un drive donde estara un rar con los recursos que tendra la carpeta vendor que es la que contiene toda las libererias necesarias,
+esa carpeta debemos copiarla dentro de la carpeta dss_catedra que es proyecto
+Tambien estara la base de datos que debemos importarla ese caso se utilizo phpadmin haci que solo abrimos nuestro xammp o wamp la importamo.<br>
+<br>
+
+> [!TIP]
+>  Cuando impotemos la base datos abrimos nuestro phpadmin desde nuestro xammp o wamp creamos una base datos nueva con mismo nombre dss_catedra y buscamos la pestaña importar y
+> selecionamos la base datos o compiamos la query y le damaos continuar.
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+> [!IMPORTANT]
+> AHORA EJECUTAREMOS LOS COMANDOS PARA LEVANTAR EL PROYECTO <br>
+> importante mencinar que debemos ubicar el proyecto en carpeta de origen de nuestro xampp o wamp
+```
+C:\xampp\htdocs
+```
+```
+C:\wamp64\www
+```
+> [!IMPORTANT]
+> MENCIONAMOS QUE DEBEMOS TENER  INSTLADO LO ANTERIOR YA QUE AL CREAR EL PROYECTO INSTALO UNAS DEPENDECIAS NPM QUE GENERO UNOS ESTILOS CON Tailwind
+> POR ESO DEBEMOS TNER NODEJS YA QUE SIN ESTO NO LOS VAN CARGAR LOS ESTILOs HOY VEREMOS DOS FORMAS DE EJECUTARLO EL NPM ES RECOMENDAO INCIARLO DESDE EL CMD,
+> ARTISAN LO EJECUTA TANTO VSCODE COMO EL CMD 
+```
+php artisan serve
+```
+```
+npm run start
+```
+
+```
+Crtl + c // este detine el serve
+```
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+> [!NOTE]
+>  en el apartado de enlaces esta uno llamdo respaldo proyecto ese nos llavara a drive donde el  proyecto comprido en un rar este ya incluye la vendor solo
+> debemos copiarla a nuesta carpeta de xamp o wamp , esto por si hay problemas de copiar la carpeta de vendor a la carpeta del proyecto y ivitar errores 
+<br>
+
+> [!CAUTION]
+> Este proyecto esta hecho fines educativos lo que quiere decir que cualquier persona puede descargarlo y mejoralo en un futuro
+>  
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2>:open_file_folder: Archivos importantes </h2>
+
+> [Proyecto PDF 📖]()
+
+> [Importante📝](https://github.com/Cabrera437/Catedra-PHP/tree/master/comprobantes)
+
+> [Recursos 📦 ](https://drive.google.com/file/d/1D0naypY-wKO_U2Edq45MjoNPzIjPqqW5/view?usp=sharing)
+
+ > [Respaldo proyecto 📦 ](https://drive.google.com/file/d/1M_8RmiDfAW9myIzBuz8hRXxtnAeoHD3K/view?usp=sharing)
+
+> [Maneras de ejecucion y funcionalidad ⏯](https://drive.google.com/file/d/1ilCNFC560OxCRTuIej50rHmJaX5YqMlE/view?usp=sharing)
+
+>[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/oCbgpYrGGHI3ZliZpSI0N4/Untitled?node-id=0-1&p=f)
+
+
+> [trello📗](https://trello.com/b/CyB9Y510/recuerda-proyecto) 
+
+
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Heramientas y Tecnologias Utilizadas</b>
 
 ![Laravel](https://img.shields.io/badge/Laravel-white?style=flat&logo=Laravel)
@@ -65,24 +157,6 @@
  </tr>
 </table>
 </div>
-<h2>:open_file_folder: Archivos importantes </h2>
-
-
-> [Importante📝](https://github.com/Cabrera437/Catedra-PHP/tree/master/comprobantes)
-
-> [proyecto PDF 📖]()
-
-> [video demostrativo de manejaras de ejecucion y funcionalidad ⏯](https://drive.google.com/file/d/1ilCNFC560OxCRTuIej50rHmJaX5YqMlE/view?usp=sharing)
-
-
-
->[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/oCbgpYrGGHI3ZliZpSI0N4/Untitled?node-id=0-1&p=f)
-
-
-> [trello📗](https://trello.com/b/CyB9Y510/recuerda-proyecto) 
-
-
-
 
 <br>
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
