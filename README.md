@@ -88,7 +88,7 @@ Crtl + c // este detine el serve
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 > [!NOTE]
->  en el apartado de enlaces esta uno llamado  respaldo proyecto ese nos llavara a un drive donde el  proyecto comprido en un rar este ya incluye todo lo nccesario para
+>  en el apartado de enlaces esta uno llamado  respaldo proyecto ese nos llavara a un drive donde el  proyecto esta comprido en un rar este ya incluye todo lo nccesario para
 > que funcione el proyecto  solo debemos copiar todos los recuerso menos la base datos a  nuesta carpeta de xamp o wamp , esto por si hay problemas de copiar los recursos del proyecto y ivitar errores 
 <br>
 
@@ -106,7 +106,7 @@ Crtl + c // este detine el serve
 
 > [Recursos 📦 ](https://drive.google.com/file/d/1D0naypY-wKO_U2Edq45MjoNPzIjPqqW5/view?usp=sharing)
 
- > [Respaldo proyecto 📦 ](https://drive.google.com/file/d/1M_8RmiDfAW9myIzBuz8hRXxtnAeoHD3K/view?usp=sharing)
+ > [Respaldo proyecto 📦 ](https://drive.google.com/file/d/162X9X2IY5Dre8AASDZ8bhOhBboJj6wpW/view?usp=sharing)
 
 > [video de Maneras de ejecucion y funcionalidad ⏯](https://drive.google.com/file/d/1ilCNFC560OxCRTuIej50rHmJaX5YqMlE/view?usp=sharing)
 
