@@ -32,7 +32,7 @@
 > **  Tener Laravel Instalado ** <br>
 > ** Tener Composer Instaldo  ** <br>
 > ** Tener Nodejs Instalado **   <br>
-> ** tener Instalado Xampp o wamp server **
+> ** tener Instalado Xampp o wamp server **<br>
 > ES MUY IMPORTANTE TENER ESTO PARA QUE PODAMOS EJECUTAR LA APLICACIÓN WEB
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -72,9 +72,9 @@ C:\xampp\htdocs
 C:\wamp64\www
 ```
 > [!IMPORTANT]
-> MENCIONAMOS QUE DEBEMOS TENER  INSTLADO LO ANTERIOR YA QUE AL CREAR EL PROYECTO INSTALO UNAS DEPENDECIAS NPM QUE GENERO UNOS ESTILOS CON Tailwind
-> POR ESO DEBEMOS TNER NODEJS YA QUE SIN ESTO NO LOS VAN CARGAR LOS ESTILOs HOY VEREMOS DOS FORMAS DE EJECUTARLO EL NPM ES RECOMENDAO INCIARLO DESDE EL CMD,
-> ARTISAN LO EJECUTA TANTO VSCODE COMO EL CMD 
+> Mencionamos que debemos tener instlado lo anterior ya que al crear el proyecto instalo unas depencias npm que gnero unos estilos con Tailwind
+por eso debemos tener Nodejs ya que sin eso no los van cargar los estilos Hoy veremos dos formas de ejecurtarlo el Npm es recomendado inciarlo desde el cmd y Artisan lo ejecuta tanto en vscode como en el cmd
+
 ```
 php artisan serve
 ```
@@ -88,19 +88,19 @@ Crtl + c // este detine el serve
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 > [!NOTE]
->  en el apartado de enlaces esta uno llamdo respaldo proyecto ese nos llavara a drive donde el  proyecto comprido en un rar este ya incluye la vendor solo
-> debemos copiarla a nuesta carpeta de xamp o wamp , esto por si hay problemas de copiar la carpeta de vendor a la carpeta del proyecto y ivitar errores 
+>  en el apartado de enlaces esta uno llamado  respaldo proyecto ese nos llavara a un drive donde el  proyecto comprido en un rar este ya incluye todo lo nccesario para
+> que funcione el proyecto  solo debemos copiar todos los recuerso menos la base datos a  nuesta carpeta de xamp o wamp , esto por si hay problemas de copiar los recursos del proyecto y ivitar errores 
 <br>
 
 > [!CAUTION]
-> Este proyecto esta hecho fines educativos lo que quiere decir que cualquier persona puede descargarlo y mejoralo en un futuro
+> Este proyecto esta hecho fines educativos lo que quiere decir que cualquier persona puede descargarlo y mejoralo en un futuro por esa razon se a compartido todo lo necesario para que funcione el proyecto 
 >  
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <h2>:open_file_folder: Archivos importantes </h2>
 
-> [Proyecto PDF 📖]()
+> [Manuales 📖](https://github.com/Cabrera437/Catedra-PHP)
 
 > [Importante📝](https://github.com/Cabrera437/Catedra-PHP/tree/master/comprobantes)
 
@@ -108,10 +108,9 @@ Crtl + c // este detine el serve
 
  > [Respaldo proyecto 📦 ](https://drive.google.com/file/d/1M_8RmiDfAW9myIzBuz8hRXxtnAeoHD3K/view?usp=sharing)
 
-> [Maneras de ejecucion y funcionalidad ⏯](https://drive.google.com/file/d/1ilCNFC560OxCRTuIej50rHmJaX5YqMlE/view?usp=sharing)
+> [video de Maneras de ejecucion y funcionalidad ⏯](https://drive.google.com/file/d/1ilCNFC560OxCRTuIej50rHmJaX5YqMlE/view?usp=sharing)
 
 >[Enlace de lo Diseño de los Muckup's 🎨](https://www.figma.com/design/oCbgpYrGGHI3ZliZpSI0N4/Untitled?node-id=0-1&p=f)
-
 
 > [trello📗](https://trello.com/b/CyB9Y510/recuerda-proyecto) 
 
