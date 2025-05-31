@@ -102,8 +102,6 @@ Crtl + c // este detine el serve
 
 > [Manuales 📖](https://github.com/Cabrera437/Catedra-PHP)
 
-> [Importante📝](https://github.com/Cabrera437/Catedra-PHP/tree/master/comprobantes)
-
 > [Recursos 📦 ](https://drive.google.com/file/d/162X9X2IY5Dre8AASDZ8bhOhBboJj6wpW/view?usp=sharing)
 
  > [Respaldo proyecto 📦 ](https://drive.google.com/file/d/162X9X2IY5Dre8AASDZ8bhOhBboJj6wpW/view?usp=sharing)
