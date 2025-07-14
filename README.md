@@ -141,11 +141,9 @@ Crtl + c // este detine el serve
     <td>Nelson Murcia</td>
     <td>Yesenia Hernández</td>
     <td>Cristina Perez</td>
-    <td>Xenia Sánchez</td>
     <td>Omar Maldonado</td>
       </tr>
     <tr align="center">
-    <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
     <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
     <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
     <td> <br><picture><img src = "https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width = 50px></picture> </td>
